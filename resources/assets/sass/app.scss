@@ -1,0 +1,25 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+// -------------------------------------
+//   Inbox
+// -------------------------------------
+
+a,
+button {
+  color: #3097D1;
+  cursor: pointer;
+}
+
+a:hover,
+.btn-link:hover {
+  text-decoration: none;
+}
+
+img {
+  max-width: 200px;
+  align-self: center;
+}
