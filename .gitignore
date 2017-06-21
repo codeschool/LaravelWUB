@@ -6,5 +6,5 @@
 /.idea
 Homestead.json
 Homestead.yaml
-.env*
+.env
 *.log
