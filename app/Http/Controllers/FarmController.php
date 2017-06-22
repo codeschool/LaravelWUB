@@ -59,7 +59,7 @@ class FarmController extends Controller
      */
     public function edit(Farm $farm)
     {
-      return view('farm.edit', ['farm' => $farm]);
+      return view('farms.edit', ['farm' => $farm]);
     }
 
     /**
